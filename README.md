@@ -26,7 +26,7 @@
 
 * 🎓 **Diplôme d'Ingénieur en Data Science et Computer Vision** — ENSI (2026)
 * 🧪 **Projet de Fin d'Études (Focus Corporation) :** Assistant SOC multi-agents (Scoring ML + LLM)
-* 🏅 **Certification :** Harvard CS50's Introduction to Artificial Intelligence with Python
+* 🏅 **Certifications :** Harvard CS50's Introduction to Cybersecurity · Harvard CS50's Introduction to Artificial Intelligence with Python
 
 ---
 
