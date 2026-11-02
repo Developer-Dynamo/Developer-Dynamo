@@ -20,8 +20,7 @@
 | :--- | :--- |
 | 🛡️ [cs50-cybersecurity-final-project](https://github.com/Developer-Dynamo/cs50-cybersecurity-final-project) | Cybersécurité & Vulnérabilités |
 | 🧠 [segmentation-tumeur-cerebrale-brats](https://github.com/Developer-Dynamo/segmentation-tumeur-cerebrale-brats) | Vision par Ordinateur & Imagerie Médicale |
-| ⚛️ [nppad-accident-diagnosis](https://github.com/Developer-Dynamo/nppad-accident-diagnosis) | Séries Temporelles & Génie Nucléaire |
-
+| 🛡️ [transaction-fraud-detection](https://github.com/Developer-Dynamo/transaction-fraud-detection) | Machine Learning & Détection de Fraude Bancaire |
 ### 🎓 Formation & Certifications
 
 * 🎓 **Diplôme d'Ingénieur en Data Science et Computer Vision** — ENSI (2026)
