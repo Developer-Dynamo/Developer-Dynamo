@@ -18,10 +18,9 @@
 
 | Project | Domain |
 | :--- | :--- |
-| 🛡️ [cs50-cybersecurity-final-project](https://github.com/Developer-Dynamo/cs50-cybersecurity-final-project) | Cybersecurity & Vulnerabilities |
-| 🧠 [segmentation-tumeur-cerebrale-brats](https://github.com/Developer-Dynamo/segmentation-tumeur-cerebrale-brats) | Computer Vision & Medical Imaging |
-| 🛡️ [transaction-fraud-detection](https://github.com/Developer-Dynamo/transaction-fraud-detection) | Machine Learning & Banking Fraud Detection |
-
+| 🧊 [3D-Geometric-DeepLearning-Explainability](https://github.com/Developer-Dynamo/3D-Geometric-DeepLearning-Explainability) | 3D Deep Learning, Point Clouds & Explainable AI |
+| 🧠 [Brain-Tumor-Segmentation-Brats](https://github.com/Developer-Dynamo/Brain-Tumor-Segmentation-Brats) | Computer Vision & Medical Imaging |
+| 🛡️ [Transaction-Fraud-Detection](https://github.com/Developer-Dynamo/Transaction-Fraud-Detection) | Machine Learning & Banking Fraud Detection |
 ### 🎓 Education & Certifications
 
 * 🎓 **Engineering Degree in Data Science and Computer Vision** — ENSI (2026)
