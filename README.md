@@ -1,31 +1,32 @@
-<h1 align="center">Bonjour, je suis Oussama 👋</h1>
+<h1 align="center">Hi, I'm Oussama 👋</h1>
 
-<p align="center"><b>Ingénieur Data Science & Computer Vision</b> (ENSI) · IA & Cybersécurité</p>
+<p align="center"><b>Data Science & Computer Vision Engineer</b> (ENSI) · AI & Cybersecurity</p>
 
 ---
 
-### 🛠️ Compétences
+### 🛠️ Skills
 
-* **Langages :** Python, SQL
-* **Analyse & Visualisation :** Pandas, NumPy, Matplotlib, Seaborn, Streamlit
-* **Machine Learning :** Scikit-Learn, Random Forest, XGBoost, Feature Engineering
-* **Deep Learning & CV :** PyTorch, TensorFlow, CNN, MONAI, SegResNet, OpenCV
-* **Séries Temporelles & IA Générative :** LSTM, CNN-LSTM, LLMs, Systèmes Multi-Agents
-* **Cybersécurité :** Analyse de vulnérabilités (Log4Shell), Détection d'intrusion (Snort, Wireshark)
-* **Outils & Environnement :** Git, Docker, Jupyter Notebook, LaTeX
+* **Languages:** Python, SQL, C++
+* **Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Streamlit
+* **Machine Learning:** Scikit-Learn, Random Forest, XGBoost, Feature Engineering
+* **Deep Learning & CV:** PyTorch, TensorFlow, CNN, MONAI, SegResNet, OpenCV
+* **Time Series & Generative AI:** LSTM, CNN-LSTM, LLMs, Multi-Agent Systems
+* **Cybersecurity:** Vulnerability Analysis (Log4Shell), Intrusion Detection (Snort, Wireshark)
+* **Tools & Environment:** Git, Docker, Jupyter Notebook, LaTeX
 
-### 📁 Projets
+### 📁 Projects
 
-| Projet | Domaine |
+| Project | Domain |
 | :--- | :--- |
-| 🛡️ [cs50-cybersecurity-final-project](https://github.com/Developer-Dynamo/cs50-cybersecurity-final-project) | Cybersécurité & Vulnérabilités |
-| 🧠 [segmentation-tumeur-cerebrale-brats](https://github.com/Developer-Dynamo/segmentation-tumeur-cerebrale-brats) | Vision par Ordinateur & Imagerie Médicale |
-| 🛡️ [transaction-fraud-detection](https://github.com/Developer-Dynamo/transaction-fraud-detection) | Machine Learning & Détection de Fraude Bancaire |
-### 🎓 Formation & Certifications
+| 🛡️ [cs50-cybersecurity-final-project](https://github.com/Developer-Dynamo/cs50-cybersecurity-final-project) | Cybersecurity & Vulnerabilities |
+| 🧠 [segmentation-tumeur-cerebrale-brats](https://github.com/Developer-Dynamo/segmentation-tumeur-cerebrale-brats) | Computer Vision & Medical Imaging |
+| 🛡️ [transaction-fraud-detection](https://github.com/Developer-Dynamo/transaction-fraud-detection) | Machine Learning & Banking Fraud Detection |
 
-* 🎓 **Diplôme d'Ingénieur en Data Science et Computer Vision** — ENSI (2026)
-* 🧪 **Projet de Fin d'Études (Focus Corporation) :** Assistant SOC multi-agents (Scoring ML + LLM)
-* 🏅 **Certifications :** Harvard CS50's Introduction to Cybersecurity · Harvard CS50's Introduction to Artificial Intelligence with Python
+### 🎓 Education & Certifications
+
+* 🎓 **Engineering Degree in Data Science and Computer Vision** — ENSI (2026)
+* 🧪 **Final Year Project (Focus Corporation):** Multi-agent SOC Assistant (ML Scoring + LLM)
+* 🏅 **Certifications:** Harvard CS50's Introduction to Cybersecurity · Harvard CS50's Introduction to Artificial Intelligence with Python
 
 ---
 
